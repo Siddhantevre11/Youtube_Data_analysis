@@ -1,11 +1,9 @@
 # Youtube_Data_analysis
+The Insights we are trying to encover here are-
 
-we have a client, who wants to run ads for his product on social media and he chose YouTube
+What are the most-watched video categories on YouTube, and how can I align my ads with trending content to maximize visibility?
 
-He wants to find answers to these questions
-
-Find top categories of videos people watch on YouTube
-What factors affect how popular a YouTube video will be?
+What key factors influence a video’s popularity on YouTube (e.g., views, engagement, duration), and how can I leverage these insights to optimize my ad targeting and performance?
 
 Why YouTube?
 
